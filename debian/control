@@ -23,7 +23,7 @@ Build-Depends: bison,
                openssl,
                procps,
                ruby:native <cross>,
-               rubygems-integration (>= 1.6),
+               rubygems-integration (>= 1.15),
                systemtap-sdt-dev [linux-any],
                tzdata,
                zlib1g-dev
