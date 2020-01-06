@@ -1,3 +1,9 @@
+ruby2.7 (2.7.0-1bbox1~bionic1) bionic; urgency=medium
+
+  * Build for Ubuntu
+
+ -- John Leach <john@brightbox.co.uk>  Mon, 06 Jan 2020 17:14:04 +0000
+
 ruby2.7 (2.7.0-1~exp1) experimental; urgency=medium
 
   * New upstream version 2.7.0
